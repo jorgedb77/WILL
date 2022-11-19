@@ -20,7 +20,8 @@ function stringMasLarga(strings) {
   }
   return strings[masl];
 }
-console.log(stringMasLarga(['hi', 'hello', 'ni hao', 'guten tag'])) 
+//console.log(stringMasLarga(['hi', 'hello', 'ni hao', 'guten tag'])) 
+//console.log(stringMasLarga(['JavaScript', 'HTML', 'CSS']))
 
 // No modifiques nada debajo de esta linea //
 
